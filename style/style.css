@@ -10,7 +10,7 @@
 .hero {
     width: 1440px;
     height: 652px;
-    background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-image: url(../images/Hero-bg.png);
     background-repeat: no-repeat;
     justify-content: center;
     align-items: center;
@@ -412,7 +412,7 @@ margin-bottom: 10px;
     justify-content: center;
     
     text-align: center;
-    background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+    background-image: url(../images/handshake.jpg);
     margin-bottom: 100px;
     margin: 0 auto;
     background-position: center;
